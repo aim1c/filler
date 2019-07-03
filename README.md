@@ -12,3 +12,8 @@
 Игра появляется на стандартном входе.
 
 Цель игры - поместить на карту больше фигур, чем враг.
+Запуск: 
+
+./make
+
+./resources/filler_vm -p1 ./fsnow-be.filler -p2 ./resources/players/abanlin.filler -f resources/maps/map00
